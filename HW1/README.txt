@@ -1,0 +1,1 @@
+Required libraries:scipymatplotlibnumpypandasnetworkInstructions:1.Each folder contains code for question asked. 2.Please change values of parameters in the scripts to get appropriate results shown in the pdf.
